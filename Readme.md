@@ -1,6 +1,3 @@
-Here's a polished and informative `README.md` that you can use for your **Tora Dental Clinic** website project:
-
----
 
 # 🦷 Tora Dental Clinic Website
 
@@ -9,7 +6,7 @@ Welcome to the official source code repository for **Tora Dental Clinic** — a 
 ---
 
 ## 🌐 Live Preview
-
+The website is live at    https://imani-prog.github.io/ToraDentalClinic/
 ## 📂 Project Structure
 
 ```bash
@@ -72,7 +69,7 @@ git clone https://github.com/yourusername/tora-dental-clinic.git
 
 ## 📬 Contact
 
-For collaborations or questions, reach out via [contact.html](contact.html) or connect through our social media (links coming soon).
+For collaborations or questions, reach out via [contact.html](contact.html)
 
 ---
 
