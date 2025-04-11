@@ -80,6 +80,3 @@ For collaborations or questions, reach out via [contact.html](contact.html) or c
 
 This project is licensed for personal and educational use. You are free to customize and build upon it, but commercial use should be credited.
 
----
-
-Let me know if you want it customized with your name, GitHub profile, or deployment link.
