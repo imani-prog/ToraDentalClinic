@@ -24,7 +24,7 @@ The website is live at    https://imani-prog.github.io/ToraDentalClinic/
     └── favicon/              # Website icons (fav.png, fav.jpg)
 
 
-## 🎨 Features
+## Features
 
 - **Responsive Navigation Bar** – Clear links to each section of the website.
 - **Dynamic Carousel** – Visually rich homepage slider with captions.
@@ -37,7 +37,7 @@ The website is live at    https://imani-prog.github.io/ToraDentalClinic/
 
 
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - **HTML5 & CSS3** – Markup and styling
 - **Bootstrap 5** – Responsive layout and UI components
