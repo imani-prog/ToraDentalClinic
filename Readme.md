@@ -47,7 +47,7 @@ The website is live at    https://imani-prog.github.io/ToraDentalClinic/
 
 
 
-## 🛠️ How to Use
+## How to Use
 
 1. Clone or download the repository:
 
@@ -59,19 +59,19 @@ git clone https://github.com/yourusername/tora-dental-clinic.git
 
 3. Use any code editor (like VS Code) to edit styles, images, or content.
 
-## 👨‍⚕️ About Tora Dental Clinic
+## About Tora Dental Clinic
 
 > Tora Dental Clinic is committed to redefining dental experiences by offering compassionate, personalized care. From routine cleanings to advanced procedures, your smile is our mission.
 
 
 
-## 📬 Contact
+## Contact
 
 For collaborations or questions, reach out via [contact.html](contact.html)
 
 
 
-## 📄 License
+## License
 
 This project is licensed for personal and educational use. You are free to customize and build upon it, but commercial use should be credited.
 
