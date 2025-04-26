@@ -1,13 +1,13 @@
 
-# 🦷 Tora Dental Clinic Website
+#  Tora Dental Clinic Website
 
 Welcome to the official source code repository for **Tora Dental Clinic** — a modern, responsive, and informative dental clinic website built using HTML5, CSS3, and Bootstrap. This project is designed to provide users with a friendly interface to learn more about the clinic, its services, team, and schedule appointments online.
 
 
 
-## 🌐 Live Preview
+## Live Preview
 The website is live at    https://imani-prog.github.io/ToraDentalClinic/
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 ├── index.html                # Home page
